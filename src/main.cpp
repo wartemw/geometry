@@ -1,5 +1,5 @@
-#include "Output.cpp"
-#include "Pars.cpp"
+#include "Output.hpp"
+#include "Pars.hpp"
 
 const int k=3;
 int i = 0;

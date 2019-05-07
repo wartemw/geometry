@@ -8,6 +8,6 @@
 
 using namespace std;
 
-//void outputF(figure *circle, int k);
+void outputF(figure *circle, int k);
 
 #endif
