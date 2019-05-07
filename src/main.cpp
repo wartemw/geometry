@@ -1,9 +1,5 @@
-
-#include <cstdlib>
-#include <cstring>
-#include <iostream>
-#include "Pars.cpp"
 #include "Output.cpp"
+#include "Pars.cpp"
 
 const int k=3;
 int i = 0;
