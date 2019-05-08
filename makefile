@@ -15,5 +15,7 @@ build/Output.o: src/Output.cpp
 build/Pars.o: src/Pars.cpp
 	g++ -Wall -Werror -c src/Pars.cpp -o build/Pars.o
 
+.PHONY: clean
+
 clean:
 	rm -rf build/*.o bin/Geometry
