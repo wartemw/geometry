@@ -4,8 +4,8 @@
 #include "Figure.cpp"
 #include <cstdlib>
 #include <cstring>
-#include <math.h>
 #include <iostream>
+#include <math.h>
 
 using namespace std;
 
