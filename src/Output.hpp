@@ -4,10 +4,11 @@
 #include "Figure.cpp"
 #include <cstdlib>
 #include <cstring>
+#include <math.h>
 #include <iostream>
 
 using namespace std;
 
 void outputF(figure* circle, int k);
-
+int sqr(int a);
 #endif
